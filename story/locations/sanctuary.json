@@ -1,0 +1,7 @@
+{
+  "Name" : "sanctuary",
+  "Description" : "You are in the sanctuary. South door leads back to temple hall. You see a big shining red pentagram in the middle of room. It seems to be the source of all troubles in the temple.",
+  "Characters" : ["highPriest"],
+  "Items" : [],
+  "AdjacentLocations" : {"south":"templeHall"}
+}

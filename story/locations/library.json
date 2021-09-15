@@ -1,0 +1,7 @@
+{
+  "Name" : "library",
+  "Description" : "You are in the library. West door leeds back to temple hall. All bookshelves are flipped over and you can see evidence of the recent fire here. ",
+  "Characters" : ["Azael"],
+  "Items" : ["healthPotion"],
+  "AdjacentLocations" : {"west":"templeHall"}
+}

@@ -1,0 +1,8 @@
+{
+  "Name" : "armor",
+  "Description" : "You see a quite strong armor of your order, which recently was on your dead friend. ",
+  "IsRetriavable" : "true",
+  "BlockBonus" : 3,
+  "AttackBonus" : 0,
+  "Type" : "Armor"
+}

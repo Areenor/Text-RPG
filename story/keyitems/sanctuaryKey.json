@@ -1,0 +1,8 @@
+{
+  "Name" : "sanctuaryKey",
+  "Description" : "You see a sanctuaryKey which was dropped by the dead priest. You know your next move. ",
+  "IsRetriavable" : "true",
+  "NewTargetDescriptions" : {"metalDoor": "You see a metalDoor. It is now unlocked, and you can now move north, it`s time to finish this madness. "},
+  "UnlockedDirections" : {"metalDoor":"north"},
+  "UnlockedLocationNames" : {"metalDoor": "sanctuary"}
+}

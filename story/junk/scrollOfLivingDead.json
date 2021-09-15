@@ -1,0 +1,7 @@
+{
+"Name" : "scrollOfLivingDead",
+"Description" : "You see a scrollOfLivingDead. After studying the text you realize that it describes the ritual of returning people to life but with a corrupted mind, exactly what was happening in sanctuary. It seems like exactly this scroll caused all the madness happening here. You should take this with you. ",
+"IsRetriavable" : true,
+"IsWinningItem" : true,
+"EndText" : "As you find out from his personal notes, Azael, the Satan worshiper, planned to purge the whole country starting with this temple. As a priest he came here to seek a place to live, but actually he was corrupting the minds of local folk to help him perform the ritual. He hoped to continue in another temple as this one was just a test. But you put an end to his plans and work. Now you are returning with Areenor to the citadel of your order to destroy all such scrolls so such event could never repeat. Your mission is done."
+}

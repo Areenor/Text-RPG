@@ -1,0 +1,11 @@
+{
+  "Name" : "dungeonPriest",
+  "IsFightable" : "true",
+  "IsHostile" : "true",
+  "Inventory" : ["sanctuaryKey"],
+  "Description" : "You see a priest who just finished some ritual of awakening the two dead figures. He points his finger at you.",
+  "CombatDialogue" : "Another one? Good, more solders for my Master. Kill him. Kill him now! No one should enter the sanctuary!",
+  "Strength": 2,
+  "Dexterity": 2,
+  "Constitution": 2
+}

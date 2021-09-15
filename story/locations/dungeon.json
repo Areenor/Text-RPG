@@ -1,0 +1,7 @@
+{
+  "Name" : "dungeon",
+  "Description" : "You are in the dungeon. There are stairs going up which lead back to temple hall. You see traces of a massacre that happened here: dozens of fresh bodies of both priests and your fellow order members.",
+  "Characters" : ["dungeonPriest", "undeadOrderMember", "undeadPriest"],
+  "Items" : [],
+  "AdjacentLocations" : {"up":"templeHall"}
+}

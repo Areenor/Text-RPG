@@ -1,0 +1,12 @@
+{
+  "Name" : "Azael",
+  "IsFightable" : "true",
+  "IsHostile": "false",
+  "Inventory" : ["scrollOfLivingDead"],
+  "Description" : "You see a priest with strange orange eyes and few fresh scars all over the face. He must be Azael. ",
+  "Dialogue" : "Everything happened so fast... They are all dead now... These rituals were not supposed to happen.. All the books are gone.. We should leave this place before it`s too late. ",
+  "CombatDialogue" : "So you figured it out, huh? You smarter than I thought. It doesn`t matter now. After your death no one will be able to stop me and my master Satan. ",
+  "Strength": 4,
+  "Dexterity": 3,
+  "Constitution": 3
+}

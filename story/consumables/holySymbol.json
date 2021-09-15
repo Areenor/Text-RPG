@@ -1,0 +1,9 @@
+{
+  "Name" : "holySymbol",
+  "Description" : "You see a holySymbol. It weakens Satan worshipers. Might help in a fight against Azael.",
+  "IsRetriavable" : "true",
+  "StatChange" : -3,
+  "IsDangerous" : true,
+  "AffectedStat": "Attack"
+
+}

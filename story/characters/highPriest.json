@@ -1,0 +1,11 @@
+{
+  "Name" : "highPriest",
+  "IsFightable" : "true",
+  "IsHostile" : "true",
+  "Inventory" : ["holySymbol"],
+  "Description" : "You see a priest in unusual robes, from which you guess that he is a highPriest, standing in the center of the pentagram while repeating some sort of enchantment. ",
+  "CombatDialogue" : "What? How did you get in here? He told me no one will interfere! The ritual can`t be stopped, Master Azael won`t be pleased.",
+  "Strength": 3,
+  "Dexterity": 2,
+  "Constitution": 2
+}

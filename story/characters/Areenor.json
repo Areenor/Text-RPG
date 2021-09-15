@@ -1,0 +1,9 @@
+{
+  "Name" : "Areenor",
+  "IsFightable" : "false",
+  "Description" : "You see a rather big man in plates of your Order standing near the north door. You recognize him - the man is called Areenor, he is the captain of your squad. ",
+  "Dialogue" : "Finally you arrived, the situation is pretty bad here. We don`t know what happened to the local priests, but the living dead are all over the place. The path to the sanctuary is locked, but I can hear some ritual going over there. Rest of our group went down to dungeon to find another way in. There is wounded friend of yours in the living quarters, he might have some armor and a weapon for you. Check how he is feeling but first grab the healthPotion for him which I left in the library. Also, there is one surviving priest, called Azael. He is shocked but might know something. ",
+  "Strength": 2,
+  "Dexterity": 0,
+  "Constitution": 2
+}

@@ -1,0 +1,11 @@
+{
+  "Name" : "Flinn",
+  "IsFightable" : "true",
+  "IsHostile" : "true",
+  "Inventory" : ["longsword", "armor"],
+  "Description" : "You see an undead man in the armor of your order lean towards you. You recognize your old friend Flinn in him. Seems like no potion can help him at this point.",
+  "CombatDialogue" : "Forgive me, brother...I can`t...resist..I must...obey.",
+  "Strength": 2,
+  "Dexterity": 1,
+  "Constitution": 1
+}

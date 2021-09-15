@@ -1,0 +1,7 @@
+{
+  "Name" : "livingQuarters",
+  "Description" : "You are in the living quarters. East door leads back to temple hall. There are some broken beds and dead bodies of priests. ",
+  "Characters" : ["Flinn"],
+  "Items" : ["journal"],
+  "AdjacentLocations" : {"east":"templeHall"}
+}

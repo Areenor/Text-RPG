@@ -1,0 +1,11 @@
+{
+  "Name" : "undeadPriest",
+  "IsFightable" : "true",
+  "IsHostile" : "true",
+  "Inventory" : [],
+  "Description" : "You see an undead man in the robes of a priest who just came back to life. He seems to wait a command from the living priest. ",
+  "CombatDialogue" : "I...must...obey to...my Master. ",
+  "Strength": 1,
+  "Dexterity": 1,
+  "Constitution": 1
+}
